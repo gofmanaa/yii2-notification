@@ -1,0 +1,21 @@
+{
+    "name": "gofmanaa/yii2-notification",
+    "description": "Notification module ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," module"," notification"," event"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "gofmana",
+            "email": "gofmanaa@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "gofmanaa\\notification\\": ""
+        }
+    }
+}
